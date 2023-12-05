@@ -17,11 +17,11 @@ El código proporcionado utiliza un algoritmo genético para encontrar la mejor 
 ## Cómo Ejecutar el Código
 
 1. Asegúrate de tener Python instalado en tu sistema.
-2. Copia el código en un archivo Python (por ejemplo, `problema_viajante.py`).
+2. Copia el código en un archivo Python (por ejemplo, `main.py`).
 3. Ejecuta el script:
 
     ```bash
-    python problema_viajante.py
+    main.py
     ```
 
 4. El programa imprimirá la mejor ruta encontrada y la distancia mínima recorrida.
